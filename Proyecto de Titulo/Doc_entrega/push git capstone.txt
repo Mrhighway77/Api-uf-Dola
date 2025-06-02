@@ -1,0 +1,54 @@
+C:\Users\marco\OneDrive\Escritorio\Proyecto de Titulo\Doc_entrega\Capstone\FASE 1\INDIVIDUAL>move "C:\Users\marco\OneDrive\Escritorio\Proyecto de Titulo\Doc_entrega\Puga_Marco_1.3_APT122_AutoevaluacionFase1.docx" Marco_Puga\
+Se han movido         1 archivos.
+
+C:\Users\marco\OneDrive\Escritorio\Proyecto de Titulo\Doc_entrega\Capstone\FASE 1\INDIVIDUAL>move "C:\Users\marco\OneDrive\Escritorio\Proyecto de Titulo\Doc_entrega\Puga_Marco_1.1_APT122_AutoevaluacionCompetenciasFase1.docx" Marco_Puga\
+Se han movido         1 archivos.
+
+C:\Users\marco\OneDrive\Escritorio\Proyecto de Titulo\Doc_entrega\Capstone\FASE 1\INDIVIDUAL>cd "C:\Users\marco\OneDrive\Escritorio\Proyecto de Titulo\Doc_entrega\Capstone\FASE 1\INDIVIDUAL\Marco_Puga"
+
+C:\Users\marco\OneDrive\Escritorio\Proyecto de Titulo\Doc_entrega\Capstone\FASE 1\INDIVIDUAL\Marco_puga>git add .
+
+C:\Users\marco\OneDrive\Escritorio\Proyecto de Titulo\Doc_entrega\Capstone\FASE 1\INDIVIDUAL\Marco_puga>git commit -m "Agregar documens individual FASE 1 Marco_Puga"
+Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'Marco@LAPTOP-3JEU7125.(none)')
+
+C:\Users\marco\OneDrive\Escritorio\Proyecto de Titulo\Doc_entrega\Capstone\FASE 1\INDIVIDUAL\Marco_puga>git push origin main
+info: please complete authentication in your browser...
+Everything up-to-date
+
+C:\Users\marco\OneDrive\Escritorio\Proyecto de Titulo\Doc_entrega\Capstone\FASE 1\INDIVIDUAL\Marco_puga>git config --global user.email "ma.puga@duocuc.cl"
+
+C:\Users\marco\OneDrive\Escritorio\Proyecto de Titulo\Doc_entrega\Capstone\FASE 1\INDIVIDUAL\Marco_puga>git config --global user.name "Marco Puga"
+
+C:\Users\marco\OneDrive\Escritorio\Proyecto de Titulo\Doc_entrega\Capstone\FASE 1\INDIVIDUAL\Marco_puga>git add .
+
+C:\Users\marco\OneDrive\Escritorio\Proyecto de Titulo\Doc_entrega\Capstone\FASE 1\INDIVIDUAL\Marco_puga>git commit -m "Agregar documentos individuales FASE 1 Marco_Puga"
+[main 823a939] Agregar documentos individuales FASE 1 Marco_Puga
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 FASE 1/INDIVIDUAL/Marco_puga/Puga_Marco_1.1_APT122_AutoevaluacionCompetenciasFase1.docx
+ create mode 100644 FASE 1/INDIVIDUAL/Marco_puga/Puga_Marco_1.2_APT122_DiarioReflexionFase1.docx
+ create mode 100644 FASE 1/INDIVIDUAL/Marco_puga/Puga_Marco_1.3_APT122_AutoevaluacionFase1.docx
+
+C:\Users\marco\OneDrive\Escritorio\Proyecto de Titulo\Doc_entrega\Capstone\FASE 1\INDIVIDUAL\Marco_puga>git push origin main
+Enumerating objects: 11, done.
+Counting objects: 100% (11/11), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (8/8), done.
+Writing objects: 100% (8/8), 981.45 KiB | 1.63 MiB/s, done.
+Total 8 (delta 1), reused 1 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (1/1), done.
+To https://github.com/Blueebz/Capstone.git
+   2f63279..823a939  main -> main
+
+C:\Users\marco\OneDrive\Escritorio\Proyecto de Titulo\Doc_entrega\Capstone\FASE 1\INDIVIDUAL\Marco_puga>

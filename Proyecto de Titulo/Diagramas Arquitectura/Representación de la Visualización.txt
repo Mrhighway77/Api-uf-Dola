@@ -1,0 +1,11 @@
+Representación de la Visualización
+
+1)La interfaz gráfica de usuario (frontend) está diseñada como una aplicación web responsiva que permite a los usuarios interactuar con el sistema de forma intuitiva. Las principales funcionalidades incluyen:
+
+2)Gráficos de Líneas y Boxplots: Para mostrar la evolución histórica de los precios y la dispersión de estos según características específicas de las propiedades.
+
+3)Mapa Interactivo: Basado en las coordenadas geográficas de las propiedades, se permite a los usuarios visualizar los precios en un mapa interactivo, con capas que representan diferentes comunas o zonas.
+
+4)Alertas Personalizadas: El sistema ofrece una funcionalidad de alertas donde los usuarios recurrentes pueden recibir notificaciones cuando los precios en una comuna específica superen o caigan por debajo de un umbral predefinido.
+
+5)Comparativas Entre Comunas: Una herramienta que permite a los usuarios comparar directamente los precios entre diferentes comunas, mostrando tablas y gráficos con los precios promedio, máximo, mínimo, y otros KPIs relevantes.
